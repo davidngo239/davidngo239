@@ -1,14 +1,14 @@
 
 <h2>Hi You! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdilysngo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dilysngo0203)](https://www.facebook.com/dilysngo0203)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dilysngo)](https://www.instagram.com/dilysngo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dilysngo)](https://www.linkedin.com/in/dilysngo)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavidngo239&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/davidngo239)](https://www.facebook.com/davidngo239)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidngo239)](https://www.instagram.com/davidngo239)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davidngo239)](https://www.linkedin.com/in/davidngo239)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dilysngo&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidngo239&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=dilysngo&show_icons=true&count_private=true&hide_border=true) -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=davidngo239&show_icons=true&count_private=true&hide_border=true) -->
 
 <!-- https://simpleicons.org -->
 <p>
