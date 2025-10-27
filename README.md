@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidngo239)](https://www.instagram.com/davidngo239)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davidngo239)](https://www.linkedin.com/in/davidngo239)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidngo239&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=davidngo239&show_icons=true&count_private=true&hide_border=true) -->
 
 <!-- https://simpleicons.org -->
